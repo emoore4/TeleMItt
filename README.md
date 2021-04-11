@@ -8,6 +8,9 @@ The TeleMitt application is dependent on a number of libraries, the pip install 
 pip install vpython
 pip install bleak
 pip install XlsxWriter
+pip install pySerial
+pip install Pillow
+
 ```
 ## TeleMitt embedded systems dependencies
 The following URLs contain the download packages for the libraries used in this product, accompanied by a second url that takes the user to the documentation for these extra libraries.
